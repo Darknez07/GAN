@@ -1,1 +1,0 @@
-GAN on MNIST Dataset
